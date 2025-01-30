@@ -34,14 +34,4 @@ Follow these steps to train and test the model:
 - The model achieves a reasonable accuracy in classifying facial expressions.
 - Sample predictions are visualized using **matplotlib**.
 
-## Future Improvements
-- Fine-tuning the model architecture.
-- Implementing data augmentation techniques.
-- Experimenting with different optimizers and learning rate schedules.
-
-## Credits
-This project was implemented as a guided learning experience using **PyTorch**.
-
-## License
-This project is for educational purposes only.
 
